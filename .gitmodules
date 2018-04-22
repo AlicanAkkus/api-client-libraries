@@ -1,0 +1,30 @@
+[submodule "C#/Cobinhood.API.Csharp.Client"]
+	path = "C#/Cobinhood.API.Csharp.Client"
+	url = https://github.com/morpheums/Cobinhood.API.Csharp.Client
+[submodule "F#/CryptoExchangeClient"]
+	path = "F#/CryptoExchangeClient"
+	url = https://github.com/NullVoxPopuli/CryptoExchangeClient
+[submodule "Go/go-cobinhood"]
+	path = Go/go-cobinhood
+	url = https://github.com/jaimejorge/go-cobinhood
+[submodule "Java/Cobinhood.Java"]
+	path = Java/Cobinhood.Java
+	url = https://github.com/jd-alexander/Cobinhood.Java
+[submodule "Nodejs/node-cobinhood"]
+	path = Nodejs/node-cobinhood
+	url = https://github.com/wmin0/node-cobinhood
+[submodule "TypeScript/CobinhoodRx"]
+	path = TypeScript/CobinhoodRx
+	url = https://github.com/harry-sm/CobinhoodRx
+[submodule "ObjC/COBINHOOD-objc"]
+	path = ObjC/COBINHOOD-objc
+	url = https://github.com/silentvow/COBINHOOD-objc
+[submodule "PHP/CobinhoodClientAPI"]
+	path = PHP/CobinhoodClientAPI
+	url = https://github.com/dalvin1991/CobinhoodClientAPI
+[submodule "Python/python-cobinhood"]
+	path = Python/python-cobinhood
+	url = https://github.com/CliffLin/python-cobinhood
+[submodule "Ruby/cobinhood_ruby_api"]
+	path = Ruby/cobinhood_ruby_api
+	url = https://github.com/algpet/cobinhood_ruby_api
